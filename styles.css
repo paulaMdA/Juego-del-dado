@@ -1,0 +1,69 @@
+body {
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+  
+  #game-container {
+    max-width: 600px;
+    margin: 20px auto;
+    text-align: center;
+  }
+  
+  form {
+    margin-bottom: 20px;
+  }
+  
+  #message-container {
+    margin-bottom: 20px;
+  }
+  
+  #game-table {
+    border-collapse: collapse;
+    margin: 0 auto;
+  }
+  
+  #game-table td {
+    width: 50px;
+    height: 50px;
+    background: url("suelo.jpg") center/cover;
+  }
+  
+
+  #juego-bloque {
+    max-width: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+    text-align: center;
+  }
+
+  #name-form {
+    margin-bottom: 20px;
+  }
+
+  label {
+    display: block;
+    margin-bottom: 5px;
+  }
+
+  input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+
+
+
+
+
+
+  
+  
